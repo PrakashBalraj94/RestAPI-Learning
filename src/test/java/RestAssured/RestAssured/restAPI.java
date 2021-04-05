@@ -128,6 +128,12 @@ public class restAPI {
 			System.out.println(fieldValue.get(i).getBody());
 		}
 		
+		System.out.println("check git pull");
+		System.out.println("check git pull");
+		System.out.println("check git pull");
+		System.out.println("check git pull");
+		System.out.println("check git pull");
+		
 
 	}
 
