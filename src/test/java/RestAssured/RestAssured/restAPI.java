@@ -134,6 +134,14 @@ public class restAPI {
 		System.out.println("check git pull");
 		System.out.println("check git pull");
 		
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		System.out.println("check git branch");
+		
 
 	}
 
